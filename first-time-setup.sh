@@ -1,6 +1,6 @@
 #/bin/bash
 
-port install npm
+sudo port install npm
 npm install
 
 echo "Enjoy :)"
